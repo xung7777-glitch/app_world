@@ -13,6 +13,7 @@ export default function App() {
 
   const menuItems = [
     { label: '邊疆修仙', url: 'https://ais-pre-pjls4e3htzaffmjhosnigt-381906535429.asia-northeast1.run.app' },
+    { label: '英咒寶典', url: 'https://ais-pre-i6xvba6i75h3mvbzrssb7y-381906535429.asia-northeast1.run.app' },
     { label: '御劍飛行 (建構中)', action: () => console.log('御劍飛行') },
     { label: '渡劫試煉 (建構中)', action: () => console.log('渡劫試煉') },
     { label: '打坐修煉 (建構中)', action: () => console.log('打坐修煉') },
